@@ -1,0 +1,114 @@
+body {
+ background-color: papayawhip;
+}
+
+#wrapper {
+    width: auto;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-column-gap: 5px;
+}
+
+h1 {
+    font-family: "glodok", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+ }
+
+h3 {    
+    font-family: "glodok", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+ ul {
+    font-family: "brevia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ol {
+    font-family: "brevia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+p {
+    font-family: "brevia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.links a {
+    font-family: "brevia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.links{
+    margin-left:;
+}
+footer {
+    color: papayawhip;
+    font-family: "brevia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+header{
+    grid-column: span 9;
+    background-color:rgb(237, 124, 150);
+    padding-bottom: 450px;
+    margin: -35px;
+ }
+
+img {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+#titlecard {
+    position: absolute;
+    background-color: beige;
+    margin-top: 125px;
+    margin-left: 550px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+#ingredients {
+    background-color: white;
+    grid-column: span 2;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 130px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#instructions {
+    background-color: white;
+    grid-column: span 6;
+    margin-left: 0px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#instructions h3 {
+    font-size: 45px;
+}
+footer {
+    text-align: right;
+    grid-column: span 9;
+    background-color:rgb(237, 124, 150);
+    padding-top: 50px;
+    margin: -35px;
+
+}
