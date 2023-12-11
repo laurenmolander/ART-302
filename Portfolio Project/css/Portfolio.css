@@ -1,0 +1,248 @@
+body {
+    background-color:rgb(254, 249, 237);
+   }
+
+nav {
+    background-color: rgb(242, 191, 199);
+    color: rgb(68, 66, 66);
+    font-weight: 700;
+    font-family: "elza-narrow", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    word-spacing: 4rem;
+     }
+a{
+    color:floralwhite;
+    text-decoration: none;
+}
+     h1 {
+     font-family:"dunbar-low", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+     text-align: center;
+     font-size: 10rem;
+     color:rgb(68, 66, 66);
+     margin-top: -.1rem;
+    }
+
+    h2 {
+    font-family: "dunbar-low", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 7rem;
+    text-align: left;
+    margin-top: -.3rem;
+    color:rgb(68, 66, 66);
+    margin-left: 1rem;
+    }
+
+    h3 {
+        font-family: "dunbar-low", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    h4 {
+    font-family: "dunbar-low", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    font-size: 4rem;
+    margin-top: -8rem;
+    color:rgb(68, 66, 66);
+     }
+#design{
+    font-family: "dunbar-low", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:6rem;
+    color: ghostwhite;
+
+}
+
+#cutout3 {
+    position:absolute;
+    align-items: right;
+}
+
+p{
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#about {
+    font-family: "anago", sans-serif;
+    width:40rem;
+    font-size:20px;
+    margin-bottom:10rem;
+    margin-left:1rem;
+    margin-top: -3.5rem;
+}
+#portfoliofront{
+    margin-left: 40rem;
+    margin-top: 2rem;
+    color:rgb(68, 66, 66) ;
+
+}
+
+br{
+display: block;
+margin: 10px 0;
+}
+
+.img-container {
+    float: right;
+    margin-right: 17rem;
+    margin-left: 12rem;
+    margin-top:-13rem;
+    margin-bottom: 5rem;
+    margin-top:-5rem;
+    box-shadow: 20px 20px rgb(190, 230, 205)
+}
+
+#design {
+    font-family: "dunbar-low", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position:absolute;
+    color: ghostwhite;
+    margin-left: 25.5rem;
+    top:29rem;
+    z-index: 4;
+}
+
+#studio {
+    font-family: "dunbar-low", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6rem;
+    position: absolute;
+    color: ghostwhite;
+    margin-left: 61.7rem;
+    top:29.5rem;
+    z-index: 3;
+
+}
+
+#portfolio1 {
+    position: absolute;
+    left: 17rem;
+    top:19rem;
+    z-index: 2;
+}
+
+#portfolio2{
+    position: absolute;
+    left: 52rem;
+    right: 83rem;
+    top: 19rem;
+    z-index: 1;
+
+}
+#designheader {
+    margin-left: 40rem;
+    margin-top: 2rem;
+    color:rgb(68, 66, 66) ;
+}
+#studioheader {
+    margin-left: 40rem;
+    margin-top: 2rem;
+    color:rgb(68, 66, 66) ;
+}
+#bookmockup {
+    position:absolute;
+    right: 58rem;
+    top:18rem;
+    left:2rem
+}
+
+#shirt {
+    position: absolute;
+    left: 58rem;
+    top:45rem;
+    right:2rem;
+}
+
+#francebook {
+    position: absolute;
+    left: 2rem;
+    top:76rem;
+
+}
+
+#typespecimen {
+    position: absolute;
+    left: 58rem;
+    top:110rem;
+    right:4rem;
+
+}
+
+.rightalign{
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+.leftalign{
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    width: 45rem;
+    margin-top: 11rem;
+    margin-left:4rem;
+}
+
+    
+.rightalign2{
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-top:79px;
+    position: absolute;
+    width: 45rem;
+    margin-top: 14rem;
+    margin-left: 38rem;
+
+}
+
+.rightalign1{
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 36rem;
+    margin-top: -34rem;
+
+}
+#littledog {
+    position: absolute;
+    left: 58rem;
+    top:58rem;
+    right:2rem;
+
+}
+footer {
+    font-family: "anago", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(68, 66, 66);
+    background-color: rgb(242, 191, 199);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align:right;
+    padding-right: 3rem;
+    margin-top: 50rem; 
+    
+}

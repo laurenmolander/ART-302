@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Lauren Molander </title>
+    <link rel="stylesheet" href="css/Portfolio.css">
+    <link rel="stylesheet" href="https://use.typekit.net/jtv6frx.css">
+    <link rel="stylesheet" href="https://use.typekit.net/jtv6frx.css">
+    <link rel="stylesheet" href="https://use.typekit.net/jtv6frx.css">
+    <link rel="stylesheet" href="https://use.typekit.net/jtv6frx.css">
+    <link rel="stylesheet" href="https://use.typekit.net/jtv6frx.css">
+    </head>
+    <body>
+
+         <nav>
+
+             <a href="about pg.html"> About</a>
+             <a href="portfolio pg.html">Portfolio</a>
+             <a href="resume pg.html"> Resume</a>
+        </nav>
+        <header>
+            <h1>Lauren Molander</h1>
+        </header>
+        <h4>Graphic Designer &AMP; Visual Artist</h4>
+        <img alt="cutout of typography booklet" src="img/mrs eaves 1.png"
+        height="320px"
+        width="503px">
+        <img alt="cutout of expressionist painting" src="img/eva 1.png"
+        height="320px"
+        width="503px">
+       <img alt="cutout of type specimen booklet" src="img/mrs eaves 2.png"
+        height="320px"
+        width="503px">
+        </body>
+        </html>
+    
